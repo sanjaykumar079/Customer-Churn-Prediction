@@ -1,3 +1,4 @@
+pip>=25.2
 tensorflow==2.15.0
 pandas 
 numpy 
